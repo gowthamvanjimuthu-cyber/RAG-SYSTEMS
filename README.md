@@ -10,7 +10,7 @@ Instead of relying only on the LLM’s internal knowledge, the system **injects 
 
 🔗 **Live MVP Demo**
 
- https://gowthamk-dev.github.io/RAG-SYSTEMS/
+https://gowthamvanjimuthu-cyber.github.io/RAG-SYSTEMS/
 
 ---
 
